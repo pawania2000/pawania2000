@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawania2000&label=Profile%20views&color=0e75b6&style=flat" alt="pawania2000" /> </p>
 
-- 🔭 I’m currently working on **Data Science projects**
+- 🔭 I’m currently working on **Data Analysis projects**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **SQL ,Excel , Python , ML ,Power BI**
+- 💬 Ask me about **SQL ,Excel ,Python ,Power BI**
 
 - 📫 How to reach me **pawania69@gmail.com**
 
