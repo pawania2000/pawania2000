@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Pawani A</h1>
+<h1 align="center">Hi 👋, I'm Pawani </h1>
 <h3 align="center">Data Obsessed: Aiming for a Career in Data Analyst and Scientist Fields</h3>
 <img align="right" alt="Coding" width="400" src="https://blogs.sap.com/wp-content/uploads/2019/07/Data-Science.png")>
 
